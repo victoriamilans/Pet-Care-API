@@ -1,4 +1,4 @@
-# M5 - Pet Kare
+#Pet-Care-API
 
 ## Como rodar os testes localmente
 
